@@ -18,7 +18,7 @@
   <text x="477" y="20" fill="#39d353"
     font-size="11" font-family="'Courier New',monospace"
     font-weight="bold" text-anchor="middle" letter-spacing="1">
-    🏴‍☠️  6 contributions — GUM GUM PISTOL!  💥
+    🏴‍☠️  7 contributions — GUM GUM PISTOL!  💥
   </text>
 
   <!-- Base grid -->
@@ -391,6 +391,7 @@
   <rect id="c52_2" x="920" y="58" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c52_3" x="920" y="72" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c52_4" x="920" y="86" width="11" height="11" rx="2" fill="#26a641"/>
+  <rect id="c52_5" x="920" y="100" width="11" height="11" rx="2" fill="#161b22"/>
 
   <!-- Destruction layers -->
   
