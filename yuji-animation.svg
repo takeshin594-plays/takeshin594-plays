@@ -22,7 +22,6 @@
   <rect id="c0_1" x="110" y="44" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c0_2" x="110" y="58" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c0_3" x="110" y="72" width="11" height="11" rx="2" fill="#161b22"/>
-  <rect id="c0_4" x="110" y="86" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c1_0" x="124" y="30" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c1_1" x="124" y="44" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c1_2" x="124" y="58" width="11" height="11" rx="2" fill="#161b22"/>
@@ -384,6 +383,7 @@
   <rect id="c52_1" x="838" y="44" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c52_2" x="838" y="58" width="11" height="11" rx="2" fill="#161b22"/>
   <rect id="c52_3" x="838" y="72" width="11" height="11" rx="2" fill="#161b22"/>
+  <rect id="c52_4" x="838" y="86" width="11" height="11" rx="2" fill="#161b22"/>
 
   <!-- Destruction layers -->
   
